@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "MAKE IT BOUNCE",
+  "base_artist": "Tokyo Young Vision",
+  "createdAt": "2025-12-08T12:07:08.993932Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Make It Bounce (feat. Major Lazer & Stylo G)",
+      "artist": "Dillon Francis feat. Major Lazer & Stylo G",
+      "has_synced": true,
+      "path": "select/01_We_Make_It_Bounce_(feat._Major_Lazer_&_Stylo_G)_Dillon_Francis_feat._Major_Lazer_&_Stylo_G.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Make It Bounce",
+      "artist": "Dillon Francis",
+      "has_synced": true,
+      "path": "select/02_We_Make_It_Bounce_Dillon_Francis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Make It Bounce (feat. Stylo G)",
+      "artist": "Dillon Francis & Major Lazer",
+      "has_synced": true,
+      "path": "select/03_We_Make_It_Bounce_(feat._Stylo_G)_Dillon_Francis_&_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Make It Bounce",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/04_We_Make_It_Bounce_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Make It Bounce",
+      "artist": "Dillon Francis feat. Major Lazer & Stylo G",
+      "has_synced": true,
+      "path": "select/05_We_Make_It_Bounce_Dillon_Francis_feat._Major_Lazer_&_Stylo_G.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Make It Bounce",
+      "artist": "Sy & Unknown",
+      "has_synced": false,
+      "path": "select/06_Make_It_Bounce_Sy_&_Unknown.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Make It Bounce",
+      "artist": "TWRK & Lambo feat. Fly Boi Keno",
+      "has_synced": true,
+      "path": "select/07_Make_It_Bounce_TWRK_&_Lambo_feat._Fly_Boi_Keno.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Make It Bounce (feat. Major Lazer & Stylo G)",
+      "artist": "Dillon Francis",
+      "has_synced": true,
+      "path": "select/08_We_Make_It_Bounce_(feat._Major_Lazer_&_Stylo_G)_Dillon_Francis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "MAKE IT BOUNCE",
+      "artist": "Dana Dentata",
+      "has_synced": true,
+      "path": "select/09_MAKE_IT_BOUNCE_Dana_Dentata.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Make It Bounce (Original Mix)",
+      "artist": "Dillon Francis feat. Major Lazer & Stylo G",
+      "has_synced": true,
+      "path": "select/10_We_Make_It_Bounce_(Original_Mix)_Dillon_Francis_feat._Major_Lazer_&_Stylo_G.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Make It Bounce (Ft. Stylo G)",
+      "artist": "Dillon Francis & Major Lazer",
+      "has_synced": true,
+      "path": "select/11_We_Make_It_Bounce_(Ft._Stylo_G)_Dillon_Francis_&_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Make It Bounce",
+      "artist": "Dillon Francis",
+      "has_synced": true,
+      "path": "select/12_We_Make_It_Bounce_Dillon_Francis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Make It Bounce",
+      "artist": "Martin Vide",
+      "has_synced": true,
+      "path": "select/13_Make_It_Bounce_Martin_Vide.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Make It Bounce (feat. Major Lazer & Stylo G)",
+      "artist": "Dillon Francis, Major Lazer, Stylo G",
+      "has_synced": true,
+      "path": "select/14_We_Make_It_Bounce_(feat._Major_Lazer_&_Stylo_G)_Dillon_Francis,_Major_Lazer,_Stylo_G.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Make It Bounce",
+      "artist": "Dillon Francis, Major Lazer, Stylo G",
+      "has_synced": true,
+      "path": "select/15_We_Make_It_Bounce_Dillon_Francis,_Major_Lazer,_Stylo_G.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Make It Bounce (feat. Major Lazer & Stylo G)",
+      "artist": "Dillon Francis/Major Lazer/Stylo G",
+      "has_synced": true,
+      "path": "select/16_We_Make_It_Bounce_(feat._Major_Lazer_&_Stylo_G)_Dillon_Francis_Major_Lazer_Stylo_G.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Make It Bounce",
+      "artist": "Unge Lama",
+      "has_synced": true,
+      "path": "select/17_Make_It_Bounce_Unge_Lama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAKE IT BOUNCE",
+      "artist": "Tokyo Young Vision",
+      "has_synced": false,
+      "path": "select/pl_01_MAKE_IT_BOUNCE_Tokyo_Young_Vision.txt"
+    }
+  ]
+}
